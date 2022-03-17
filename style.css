@@ -145,7 +145,7 @@ text-align: end;
 
 }
 .btn-header-git:hover{
-    margin-left: 20%;
+    margin-left: 20;
     background-color:#130101 
 }
 .btn-header:hover{
@@ -334,6 +334,12 @@ text-align: end;
 .about-page-paragraph{
     text-align: center;
     font-size: 2em;
+}
+.index-page-table{
+    font-size: 1em;
+}
+.index-page-table-data{
+    font-size: 1.3em;
 }
 /*
 
